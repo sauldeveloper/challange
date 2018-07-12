@@ -11,7 +11,7 @@ namespace CostMatrix
 	{
 		public MainPage()
 		{
-            //Do the init
+            //Do the init for the App
 			InitializeComponent();
 		}
 	}
